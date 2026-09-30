@@ -30,8 +30,8 @@ Recomenda-se utilizar o **Anaconda**, que facilita a instalação e o gerenciame
 Após instalar, clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
-cd modelo-preditivo-machine-learning
+git clone https://github.com/viniciusmartins1/class-predict-model.git
+cd class-predict-model
 ```
 
 Instale as bibliotecas necessárias (caso você não utilize Anaconda):
